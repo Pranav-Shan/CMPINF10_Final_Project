@@ -2,12 +2,12 @@
 Team Name = KMS
 
 Members:
-Valerie = xavanium@gmail.com / jck158@pitt.edu
-Spencer = slm331@pitt.edu / slmiller121@icloud.com
-Pranav = msg2pranav@gmail.com / pms94@pitt.edu
+Valerie = xavanium@gmail.com / jck158@pitt.edu<br>
+Spencer = slm331@pitt.edu / slmiller121@icloud.com<br>
+Pranav = msg2pranav@gmail.com / pms94@pitt.edu<br>
 
-Metric: Quality of Life
-Submetrics:
+Metric: Quality of Life<br>
+Submetrics:<br>
 - Food - Valerie
 - Housing - Pranav
 - Crime - Spencer
