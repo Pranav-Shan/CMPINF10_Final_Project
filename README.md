@@ -6,7 +6,7 @@ Valerie = xavanium@gmail.com / jck158@pitt.edu<br>
 Spencer = slm331@pitt.edu / slmiller121@icloud.com<br>
 Pranav = msg2pranav@gmail.com / pms94@pitt.edu<br>
 
-Metric: Most Liveable for the average American<br>
+Metric: Most Liveable for the beverage American<br>
 Submetrics:<br>
 - Food - Valerie
 - Health - Pranav
